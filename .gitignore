@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+
+# Database file
+results.db
+
+# Python cache
+__pycache__/
+*.pyc
